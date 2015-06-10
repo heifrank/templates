@@ -41,6 +41,6 @@ template<typename T> void chmax(T &t, const T &f){ if(t < f) t = f; }
 
 
 int main(){
-	    return 0;
+	return 0;
 }
 
